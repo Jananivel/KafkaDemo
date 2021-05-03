@@ -1,0 +1,1 @@
+insert into project(Name, Description)values('RestApi', 'Demo project for Rest API');
